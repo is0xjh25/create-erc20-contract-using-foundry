@@ -1,4 +1,14 @@
-## Foundry
+# create-helloworld-contract-using-hardhat
+ 
+## Overview
+This developer guide will walk you through setting up a new Solidity contract, configuring the Berachain network details, deploying to Berachain, and verifying the contract, all with [Foundry](https://getfoundry.sh/).
+
+## Requirements
+Before you begin, ensure that your computer is set up with the following:
+
+- **VSCode IDE (Recommended)**
+- **NVM or Node v18.18.2**
+- Choose one of the package managers: **pnpm**, **yarn**, or **npm**
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
@@ -64,3 +74,5 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+## More Information
+Please visit [Berachain Docs](https://docs.berachain.com/developers/guides/create-erc20-contract-using-foundry).
